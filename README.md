@@ -14,8 +14,8 @@ extends style : Plastic Code Wrap
 
 
 To enable autocomplete:
-    >> go to your Notepad++ folder then to /plugins/APIs/
-    >> duplicate the css.xml and rename this file to scss.xml.
+	>> go to your Notepad++ folder then to /plugins/APIs/
+	>> duplicate the css.xml and rename this file to scss.xml.
 
 
 Reference & Credit
