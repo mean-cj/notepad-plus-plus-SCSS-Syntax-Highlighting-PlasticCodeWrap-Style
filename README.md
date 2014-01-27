@@ -1,8 +1,8 @@
 How to use
 -------------------------
 
-To enable SCSS syntax highlighting:
-extends style : Plastic Code Wrap
+## To enable SCSS syntax highlighting / Plastic Code Wrap Style
+
 
 	>> In Notepad++ Click Language Menu
 	>> Select "Define your language"
@@ -12,10 +12,12 @@ extends style : Plastic Code Wrap
 	That's it all your files with .scss extension should now be hightlighted
 
 
+## To enable autocomplete:
 
-To enable autocomplete:
-	>> go to your Notepad++ folder then to /plugins/APIs/
-	>> duplicate the css.xml and rename this file to scss.xml.
+*   go to your Notepad++ folder then to `/plugins/APIs/`
+*   duplicate the `css.xml` and rename this file to `SCASS-Dark-PCW.xml`
+*   
+
 
 
 Reference & Credit
